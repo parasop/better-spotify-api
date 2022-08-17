@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parasop/spotify-api-wrapper.git"
+    "url": "git+https://github.com/parasop/better-spotify-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/parasop/spotify-api-wrapper/issues"
+    "url": "https://github.com/parasop/better-spotify-api/issues"
   },
-  "homepage": "https://github.com/parasop/spotify-api-wrapper#readme",
+  "homepage": "https://github.com/parasop/better-spotify-api#readme",
   "dependencies": {
     "undici": "^5.9.1"
   },
